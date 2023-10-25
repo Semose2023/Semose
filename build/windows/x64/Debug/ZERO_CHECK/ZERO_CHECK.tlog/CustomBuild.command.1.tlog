@@ -1,0 +1,10 @@
+^C:\USERS\SEOKJ\DESKTOP\BRIDZE_DATACAMPUS_1\BUILD\WINDOWS\CMAKEFILES\D7B62376398F6641F27B156A2783D14A\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/seokj/Desktop/BridZe_datacampus_1/windows -BC:/Users/seokj/Desktop/BridZe_datacampus_1/build/windows --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/seokj/Desktop/BridZe_datacampus_1/build/windows/bridze.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

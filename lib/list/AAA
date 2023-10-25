@@ -1,0 +1,24 @@
+import 'package:bridze/widgets/institution.dart';
+
+final List<Institution> AAA = [
+  Institution(
+    name: '',
+    phoneNumber: '',
+    imagePath: '',
+    address: '',
+  ),
+  Institution(
+    name: '',
+    phoneNumber: '',
+    imagePath: '',
+    address: '',
+  ),
+  Institution(
+    name: '',
+    phoneNumber: '',
+    imagePath: '',
+    address: '',
+  ),
+];
+
+assets/images/1.png

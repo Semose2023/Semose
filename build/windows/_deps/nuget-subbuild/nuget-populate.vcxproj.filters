@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\seokj\Desktop\BridZe_datacampus_1\build\windows\_deps\nuget-subbuild\CMakeFiles\6b6afec2d435d218f75cfdbc5de0d958\nuget-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\seokj\Desktop\BridZe_datacampus_1\build\windows\_deps\nuget-subbuild\CMakeFiles\6b6afec2d435d218f75cfdbc5de0d958\nuget-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\seokj\Desktop\BridZe_datacampus_1\build\windows\_deps\nuget-subbuild\CMakeFiles\6b6afec2d435d218f75cfdbc5de0d958\nuget-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\seokj\Desktop\BridZe_datacampus_1\build\windows\_deps\nuget-subbuild\CMakeFiles\6b6afec2d435d218f75cfdbc5de0d958\nuget-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\seokj\Desktop\BridZe_datacampus_1\build\windows\_deps\nuget-subbuild\CMakeFiles\6b6afec2d435d218f75cfdbc5de0d958\nuget-populate-copyfile.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\seokj\Desktop\BridZe_datacampus_1\build\windows\_deps\nuget-subbuild\CMakeFiles\6b6afec2d435d218f75cfdbc5de0d958\nuget-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\seokj\Desktop\BridZe_datacampus_1\build\windows\_deps\nuget-subbuild\CMakeFiles\6b6afec2d435d218f75cfdbc5de0d958\nuget-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\seokj\Desktop\BridZe_datacampus_1\build\windows\_deps\nuget-subbuild\CMakeFiles\6b6afec2d435d218f75cfdbc5de0d958\nuget-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\seokj\Desktop\BridZe_datacampus_1\build\windows\_deps\nuget-subbuild\CMakeFiles\6b6afec2d435d218f75cfdbc5de0d958\nuget-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\seokj\Desktop\BridZe_datacampus_1\build\windows\_deps\nuget-subbuild\CMakeFiles\d9129b692df9e72f2f4269a6fbea12bf\nuget-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\seokj\Desktop\BridZe_datacampus_1\build\windows\_deps\nuget-subbuild\CMakeFiles\ec735de2fee95bb4f4bb8d3bdc092f00\nuget-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\seokj\Desktop\BridZe_datacampus_1\build\windows\_deps\nuget-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\seokj\Desktop\BridZe_datacampus_1\build\windows\_deps\nuget-subbuild\CMakeFiles\nuget-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{16879E42-ACEB-327B-9BE9-46638FB01F92}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
