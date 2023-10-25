@@ -1,0 +1,15 @@
+# Target labels
+ nuget-populate
+# Source files and their labels
+C:/Users/seokj/Desktop/BridZe_datacampus_1/build/windows/_deps/nuget-subbuild/CMakeFiles/nuget-populate
+C:/Users/seokj/Desktop/BridZe_datacampus_1/build/windows/_deps/nuget-subbuild/CMakeFiles/ec735de2fee95bb4f4bb8d3bdc092f00/nuget-populate.rule
+C:/Users/seokj/Desktop/BridZe_datacampus_1/build/windows/_deps/nuget-subbuild/CMakeFiles/d9129b692df9e72f2f4269a6fbea12bf/nuget-populate-complete.rule
+C:/Users/seokj/Desktop/BridZe_datacampus_1/build/windows/_deps/nuget-subbuild/CMakeFiles/6b6afec2d435d218f75cfdbc5de0d958/nuget-populate-build.rule
+C:/Users/seokj/Desktop/BridZe_datacampus_1/build/windows/_deps/nuget-subbuild/CMakeFiles/6b6afec2d435d218f75cfdbc5de0d958/nuget-populate-configure.rule
+C:/Users/seokj/Desktop/BridZe_datacampus_1/build/windows/_deps/nuget-subbuild/CMakeFiles/6b6afec2d435d218f75cfdbc5de0d958/nuget-populate-copyfile.rule
+C:/Users/seokj/Desktop/BridZe_datacampus_1/build/windows/_deps/nuget-subbuild/CMakeFiles/6b6afec2d435d218f75cfdbc5de0d958/nuget-populate-download.rule
+C:/Users/seokj/Desktop/BridZe_datacampus_1/build/windows/_deps/nuget-subbuild/CMakeFiles/6b6afec2d435d218f75cfdbc5de0d958/nuget-populate-install.rule
+C:/Users/seokj/Desktop/BridZe_datacampus_1/build/windows/_deps/nuget-subbuild/CMakeFiles/6b6afec2d435d218f75cfdbc5de0d958/nuget-populate-mkdir.rule
+C:/Users/seokj/Desktop/BridZe_datacampus_1/build/windows/_deps/nuget-subbuild/CMakeFiles/6b6afec2d435d218f75cfdbc5de0d958/nuget-populate-patch.rule
+C:/Users/seokj/Desktop/BridZe_datacampus_1/build/windows/_deps/nuget-subbuild/CMakeFiles/6b6afec2d435d218f75cfdbc5de0d958/nuget-populate-test.rule
+C:/Users/seokj/Desktop/BridZe_datacampus_1/build/windows/_deps/nuget-subbuild/CMakeFiles/6b6afec2d435d218f75cfdbc5de0d958/nuget-populate-update.rule
