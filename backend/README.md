@@ -53,7 +53,6 @@ flask run
 음성 데이터를 텍스트 데이터로 변환합니다. 해당 기능은 Hugging Face에 업로드한 모델 API를 받아 사용합니다. 
 
 - 모델 실행 위치: `/backend/stt/model_stt.py`
-- Hugging Face 모델 주소: https://huggingface.co/models/oceanstar/bridze
 
 ### 2. 데이터 분석 (CRR)
 
