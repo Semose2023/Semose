@@ -1,5 +1,5 @@
 //토리찌가 홈에 나와서 사용자에게 평가방법을 알려줍니다.
-import 'package:bridze/diagnosis_home_2.dart';
+import 'package:bridze/screen/diagnosis.dart';
 import 'package:flutter/material.dart';
 import '../widgets/audio_home.dart';
 
@@ -124,7 +124,7 @@ class HomeScreenState extends State<HomeScreen> {
                     Navigator.push(
                       context,
                       MaterialPageRoute(
-                          builder: (context) => const DiagnosisHome2Page()),
+                          builder: (context) => const DiagnosisScreen()),
                     );
                   },
                   child: Image.asset('assets/images/joayong.png'),
